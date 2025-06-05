@@ -1,6 +1,6 @@
 # 🚀 Social AI – Signup Page
 
-This is a **signup page** built for an **AI SaaS platform** targeting **entrepreneurs ** who are looking to grow their social media presence using AI-powered tools.
+This is a **signup page** built for an **AI SaaS platform** targeting **entrepreneurs** who are looking to grow their social media presence using AI-powered tools.
 
 The project focuses on a **smooth user experience**, clean design, and real authentication powered by [Supabase](https://supabase.com/).
 
