@@ -1,5 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
-import App from "../../task_A/src/App";
+import App from "./App";
+//import App from "../../task_A/src/App";
 import Signup from "./components/Signup";
 import Signin from "./components/Signin";
 import Dashboard from "./routes/Dashboard";
